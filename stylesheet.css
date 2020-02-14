@@ -7,6 +7,10 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
+div{
+background-image:url(空と木.jfif);
+}
+
 a {
   text-decoration: none;
 }
@@ -19,8 +23,6 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  height:200px;
-  background-image: url(空と木.jfif);
   background-size: cover;
   color: white;
   text-align: center;
