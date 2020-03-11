@@ -34,6 +34,10 @@ body{
   
 }
 
+.top-content{
+ padding-top:65px;
+}
+
 .top-content img{
   position: relative;
 }
