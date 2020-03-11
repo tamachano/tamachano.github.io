@@ -1,9 +1,9 @@
 .forest{
-  position: relative;
+  position: absolute;
 }
 
  p{
-  position: absolute;   
+  position: relative;   
 　top: 20px;
    
 }
