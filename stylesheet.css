@@ -1,8 +1,8 @@
-top-content img{
+.top-content img{
   position: relative;
 }
 
-top-content p{
+.top-content p{
   position:　absolute;   
 　top:　50px;
   color:　white; 
