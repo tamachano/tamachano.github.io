@@ -14,7 +14,7 @@ body{
   position:fixed;
   z-index: 10;
   padding:20px;
-  
+  width:100%;
 }
 .menu-icon{
   color: white;
