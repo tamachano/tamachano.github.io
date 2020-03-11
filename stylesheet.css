@@ -1,8 +1,8 @@
-top-wrapper img{
+.top-wrapper img{
   position: relative;
 }
 
-top-wrapper p{
+.top-wrapper p{
   position: absolute;   
 　top: 20px;
   color: white; 
@@ -22,7 +22,7 @@ top-wrapper p{
   float: left;
 }
 
-header-list li{
+.header-list li{
   list-style: none;
   float: right;
   padding: 0 25px;
