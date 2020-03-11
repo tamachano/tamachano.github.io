@@ -1,9 +1,9 @@
 top-wrapper img{
-  position: absolute;
+  position: relative;
 }
 
 top-wrapper p{
-  position: relative;   
+  position: absolute;   
 　top: 20px;
   color: white; 
 }
