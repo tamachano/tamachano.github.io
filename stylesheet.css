@@ -4,12 +4,12 @@ top-wrapper img{
 
 top-wrapper p{
   position: absolute;   
-　top: 50px;
-  color: white; 
+　top:50px;
+  color:white; 
 }
 
 .header{
-  color: white;
+  color:white;
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
