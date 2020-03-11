@@ -7,6 +7,12 @@
   position:fixed;
   z-index: 10;
 }
+.menu-icon{
+  color: white;
+  display: none;
+  font-size:25px;
+  float:right ;
+}
 
 .header-logo{
   float: left;
@@ -15,7 +21,8 @@
 .header-list li{
   list-style: none;
   float: right;
-  padding: 0 25px;
+  font-size:25px;
+  padding:21px 0;
 }
 
 .top-content img{
