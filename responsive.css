@@ -1,8 +1,10 @@
 @media all and (max-width: 670px) {
+   
+   .header-list{
+   display;none
+   }
 
-.header-list{
-   display:none;
-  }
+   
 
 .menu-icon{
   display:block;
