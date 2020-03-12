@@ -51,5 +51,12 @@ body{
 }
 
 .top-sector img{
-float:left;
+  width:240px;
+  height:240px;
+  float:left;
+}
+
+.comment-section img{
+  width:240px;
+  height:240px;
 }
