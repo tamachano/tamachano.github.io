@@ -69,5 +69,6 @@ font-size:24px;
   }
 
 .tag-item a:hover{
-  background-color:green;
+  background-color:#00800d57;
+  opacity:0.5;
 }
