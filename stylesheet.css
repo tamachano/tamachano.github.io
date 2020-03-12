@@ -64,6 +64,6 @@ font-size:24px;
   float:left;
 }
 
-.tag-item{
+.tag-item a{
   border: 1px #bec2cc solid;
 }
