@@ -49,10 +49,13 @@ font-size:24px;
 }
 
 .top-content p{
+  color:white;
+  font-size: 23px;
   position: absolute;
   top: 50px;
   left: 0px;
-  color:white;
+  padding:20px;
+  width: 70%;
 }
 
 .top-sector img{
