@@ -72,3 +72,17 @@ font-size:24px;
   background-color:#00800d57;
   opacity:0.5;
 }
+
+.Like button{
+   position: relative;
+ }
+.Likes-Icon{
+   position: absolute;
+   left: -48px;
+   background: url("./img/heart_animation.png");
+   background-position: left;
+   background-size: 2900%;
+   background-repeat: no-repeat;
+   width: 105px;
+   height: 105px;
+ }
