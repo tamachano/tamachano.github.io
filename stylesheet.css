@@ -78,7 +78,7 @@ font-size:24px;
 }
 
 .message {
-  text-align:right;
+  float:right;
   padding: 10px;
   background-color: #5dca88;
   cursor: pointer;
