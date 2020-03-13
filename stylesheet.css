@@ -21,11 +21,24 @@ font-size:24px;
   z-index: 10;
   padding:20px;
 }
-.fa fa bars menu-icon{
+
+.header-list li{
+float:right;
+}
+
+
+.fa bars{
   visibility:hidden;
   color: white;
   font-size:25px;
-  float:right ;
+}
+
+.fa bars before:{
+float:right;
+}
+
+span{
+float:right;
 }
 
 .header-logo{
