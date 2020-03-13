@@ -23,9 +23,8 @@ font-size:24px;
   z-index: 10;
   padding:20px;
 }
-.menu-icon{
+.fa fa-bars menu-icon{
   color: white;
-  display: none;
   font-size:25px;
   float:right ;
 }
@@ -52,6 +51,7 @@ font-size:24px;
 }
 
 .top-content p{
+  text-shadow:3px 3px 3px #8080ff;
   text-align:center;
   color:white;
   font-size: 20px;
