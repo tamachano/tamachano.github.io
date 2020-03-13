@@ -96,6 +96,13 @@ font-size:24px;
  float: right;
 }
 
+.fb-blue{
+ color:#4267b2;
+}
+
+.line-green{
+color:#00b900;
+}
 
 .fab fa-twitter fa-4x{
  color:red;
