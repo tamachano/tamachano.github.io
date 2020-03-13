@@ -69,9 +69,13 @@ font-size:24px;
   display:inline-block;
 }
 
+.tag-item{
+ text-aling:center;
+}
+
 .tag-item a{
   border: 1px #bec2cc solid; 
-  }
+}
 
 .tag-item a:hover{
   background-color:#00800d57;
