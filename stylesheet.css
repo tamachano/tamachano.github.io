@@ -41,13 +41,6 @@ font-size:24px;
   
 }
 
-.top-content{
-  display: flex;
-  align-items: center;
-  justify-content: center;
- padding-top:105px;
-}
-
 .top-content img{
   
   position: relative;
@@ -55,13 +48,15 @@ font-size:24px;
 
 .top-content p{
   text-shadow:3px 3px 3px #8080ff;
-  text-align:center;
   color:white;
   font-size: 20px;
   position: absolute;
-  top: 45%;
-  padding:20px 20px 20px 80px;
   width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+  
 }
 
 .top-sector img{
