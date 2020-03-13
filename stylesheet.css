@@ -27,13 +27,13 @@ float:right;
 }
 
 
-.fa bars{
+.fa-bars{
   visibility:hidden;
   color: white;
   font-size:25px;
 }
 
-.fa bars before:{
+.fa-bars :before{
 float:right;
 }
 
