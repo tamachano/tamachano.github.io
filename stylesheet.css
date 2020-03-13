@@ -64,6 +64,9 @@ font-size:24px;
   float:left;
 }
 
+.tag-item{
+  display:inline-block;
+
 .tag-item a{
   border: 1px #bec2cc solid; 
   }
