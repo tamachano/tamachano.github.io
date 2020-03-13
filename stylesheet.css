@@ -42,12 +42,11 @@ font-size:24px;
 }
 
 .top-content img{
-  
   position: relative;
+  
 }
 
 .top-content {
-  background-attachment: fixed;
   background-image: url(森.jpg);
   background-position: center center;
   background-repeat: no-repeat;
@@ -66,7 +65,6 @@ font-size:24px;
   bottom: -5px;
   left: -5px;
 }
-テキストを中央に配置
 
 .top-content p{
   text-shadow:3px 3px 3px #8080ff;
