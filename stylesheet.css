@@ -104,7 +104,7 @@ font-size:24px;
 .btn-twitter::after {
   position: absolute;
   content: '\f099';
-  font-family: 'Font Awesome 5 Brands';
+  font-family:'Font Awesome 5 Brands';
   font-weight: 400;
   top: 50%;
   left: .5em;
