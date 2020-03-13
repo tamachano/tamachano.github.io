@@ -21,7 +21,8 @@ font-size:24px;
   z-index: 10;
   padding:20px;
 }
-.fa fa-bars menu-icon{
+.menu-icon{
+  visibility:hidden
   color: white;
   font-size:25px;
   float:right ;
