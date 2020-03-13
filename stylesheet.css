@@ -100,22 +100,22 @@ font-size:24px;
   position: relative;
   text-decoration: none;
 }
-
 .btn-twitter::after {
   position: absolute;
   content: '\f099';
-  font-family:'Font Awesome 5 Brands';
+  font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
   top: 50%;
   left: .5em;
   transform: translateY(-50%);
   font-size: 1.2em;
 }
+Facebook
 
 .fb-blue{
   color: #4267b2;
 }
 
 .line-green{
-color: #00B900;
+ color: #00B900;
 }
