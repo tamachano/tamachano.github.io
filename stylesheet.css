@@ -17,9 +17,16 @@ header {
 }
 
 #nav-drawer {
+  visibility:hidden;
   position: relative;
   float:right;
 }
+
+#nav-content{
+ visibility:hidden;
+ float:right;
+}
+
 
 .nav-unshown {
   display:none;
