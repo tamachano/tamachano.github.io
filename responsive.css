@@ -4,7 +4,16 @@
  display:none;
 }
 
- .top-content p{
+ #nav-drawer {
+  visibility:visible;
+}
+
+ #nav-content{
+ visibility:visible;
+}
+ 
+   
+.top-content p{
  top:30%;
 }  
 
