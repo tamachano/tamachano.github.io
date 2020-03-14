@@ -1,13 +1,9 @@
-@media all and (max-width: 828px) {
+@media all and (max-width: 828px) {  
    
-
- #nav-drawer{
-  visibility:visible;
-   }
-
- #nav-content{
- visibility:visible;
+ .header-list{
+ visibility: hidden;  
 }
+
  
    
    
