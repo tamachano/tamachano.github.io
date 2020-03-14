@@ -1,10 +1,15 @@
 @media all and (max-width: 828px) {  
    
- .header-list{
+#nav-drawer{
+float:right;
+   }
+   
+   
+.header-list{
  display:none;  
 }
    
- .top-content p{
+.top-content p{
    top:15%;
  }  
    
