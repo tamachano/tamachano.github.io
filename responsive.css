@@ -1,7 +1,7 @@
 @media all and (max-width: 828px) {  
    
  .header-list{
- visibility: hidden;  
+ display:none;  
 }
    
  .top-content p{
