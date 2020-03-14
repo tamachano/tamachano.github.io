@@ -102,6 +102,7 @@ float:right;
 
 .tag-item{
  text-aling:center;
+ cursor:pointer;
 }
 
 .tag-item a{
