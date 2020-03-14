@@ -17,13 +17,13 @@ header {
 }
 
 #nav-drawer {
-  visibility:;
+  visibility:visible;
   position: relative;
   float:right;
 }
 
 #nav-content{
- visibility:;
+ visibility:visible;
  float:right;
 }
 
@@ -46,7 +46,6 @@ header {
   border-radius: 3px;
   background: #555;
   display: block;
-  content: '';
   cursor: pointer;
 }
 #nav-open span:before {
@@ -112,6 +111,13 @@ header {
   padding:20px;
 }
 
+.header-list li{
+  float: right;
+  font-size:20px;
+  padding-left:20px;
+  
+}
+
 .header-list a{
  color :#ffffff; 
 }
@@ -122,30 +128,12 @@ header {
  float:right;
 }
 
-
-.fa-bars{
-  visibility:hidden;
-  color: white;
-  font-size:25px;
-}
-
-.fa-bars :before{
-float:right;
-}
-
 span{
 float:right;
 }
 
 .header-logo{
   float: left;
-}
-
-.header-list li{
-  float: right;
-  font-size:20px;
-  padding-left:20px;
-  
 }
 
 .top-content img{
