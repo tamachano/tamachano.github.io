@@ -17,13 +17,13 @@ header {
 }
 
 #nav-drawer {
-  visibility:hidden;
+  visibility:;
   position: relative;
   float:right;
 }
 
 #nav-content{
- visibility:hidden;
+ visibility:;
  float:right;
 }
 
