@@ -1,8 +1,5 @@
 @media all and (max-width: 828px) {
    
-.header-list{
- display:none;
-}
 
  #nav-drawer{
   visibility:visible;
