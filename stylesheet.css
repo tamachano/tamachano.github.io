@@ -96,6 +96,9 @@ float:right;
   float:left;
 }
 
+.top-sector span{
+ color:#FF99CC;
+}
 .tag-item,.btn-wrapper{
   display:inline-block;
 }
