@@ -4,4 +4,8 @@
  visibility: hidden;  
 }
    
+ .top-content p{
+   top:25%;
+ }  
+   
 }
