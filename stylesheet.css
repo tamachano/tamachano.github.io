@@ -23,7 +23,8 @@ font-size:24px;
 }
 
 .header-list li{
-float:right;
+ list-style:none;
+ float:right;
 }
 
 
