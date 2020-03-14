@@ -92,8 +92,16 @@ float:right;
   
 }
 
+.top-content strong{
+  color:#FFABCE;
+}
+
 .top-sector img{
   float:left;
+}
+
+.top-sector font{
+ text-shadow:3px 3px 3px #8080ff;
 }
 
 .tag-item,.btn-wrapper{
