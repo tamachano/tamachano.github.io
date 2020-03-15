@@ -2,15 +2,19 @@
    
 #nav-drawer{
 float:right;
+visibility:visible;
    }
-   
+
+#nav-content{
+visibility:visible;
+   }
    
 .header-list{
  display:none;  
 }
    
 .top-content p{
-   top:20%;
+ top:20%;
  }  
    
 }
