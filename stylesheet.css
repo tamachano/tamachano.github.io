@@ -17,7 +17,6 @@ header {
 }
 
 #nav-drawer {
-  visibility:hidden;
   float:right;
   position: relative;
 }
@@ -72,7 +71,6 @@ color:black;
 
 /*中身*/
 #nav-content {
-  visibility:hidden;
   overflow: auto;
   position: fixed;
   top: 0;
