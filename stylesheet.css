@@ -28,6 +28,7 @@ header {
 
 /*アイコンのスペース*/
 #nav-open {
+  visibility:hidden;
   display: inline-block;
   width: 30px;
   height: 22px;
