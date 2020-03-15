@@ -5,12 +5,17 @@
 }    
   
 #nav-drawer{
+ visibility:visible;
  display:block;  
-float:right;
-visibility:visible;
+ float:right;
+ visibility:visible;
    }
 
-#nav-content{
+ #nav-content{
+ visibility:visible;
+ }
+ 
+#nav-content li{
 display:block;
    }
 
