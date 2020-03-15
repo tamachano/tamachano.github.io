@@ -1,6 +1,7 @@
 @media all and (max-width: 828px) {  
    
 #nav-drawer{
+ display:block;  
 float:right;
 visibility:visible;
    }
