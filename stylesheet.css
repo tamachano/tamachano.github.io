@@ -17,6 +17,7 @@ header {
 }
 
 #nav-drawer {
+  visibility:hidden;
   float:right;
   position: relative;
 }
@@ -46,7 +47,6 @@ color:black;
   border-radius: 3px;
   background: #555;
   display: block;
-  content: '';
   cursor: pointer;
 }
 #nav-open span:before {
@@ -72,6 +72,7 @@ color:black;
 
 /*中身*/
 #nav-content {
+  visibility:hidden;
   overflow: auto;
   position: fixed;
   top: 0;
@@ -99,9 +100,6 @@ color:black;
 }
 
 
-
-
-
 .header{
   width:77.65%;
   height:65px;
@@ -116,6 +114,7 @@ color:black;
 }
 
 .header-list li{
+  list-style:none;
   float: right;
   font-size:20px;
   padding-left:20px;
@@ -124,12 +123,6 @@ color:black;
 
 .header-list a{
  color :#ffffff; 
-}
-
-
-.header-list li{
- list-style:none;
- float:right;
 }
 
 span{
