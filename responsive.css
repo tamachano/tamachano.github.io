@@ -3,10 +3,13 @@
  .header-list li{
  display:none;  
 }    
-  
+ #nav-open{
+ visibility:visible;
+ }  
+ 
 #nav-drawer{
  visibility:visible;
- display:block;  
+ display:block;
  float:right;
    }
 
@@ -22,4 +25,6 @@ display:block;
  top:20%;
  }  
    
+
+
 }
